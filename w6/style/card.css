@@ -6,6 +6,11 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+
+.card.card--color-blue {
+  background-color: oklch(98% 0.025 200);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -27,7 +32,11 @@ img {
   margin-top: 3rem;
 }
 
-:paused selector .card__img {
+.card:first-child {
+  margin-top: 0;
+}
+
+.card .card__img {
   width: 100%;
 }
 
