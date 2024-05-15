@@ -23,8 +23,7 @@ body {
   justify-content: space-between;
   padding-block: 1.1875rem;
   padding-inline: 5.1431rem;
-  /* for work */
-  background-color: rgb(0, 0, 0);
+  background-color: #f6f6eb;
 }
 
 .navigation > .navigation__menu-group {
