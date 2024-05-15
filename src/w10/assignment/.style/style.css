@@ -35,7 +35,7 @@ body {
   grid-auto-rows: 1fr;
   row-gap: 2rem;
   -moz-column-gap: 32px;
-       column-gap: 32px;
+  column-gap: 32px;
 }
 
 .navigation {
@@ -52,13 +52,13 @@ body {
 .navigation__left {
   display: flex;
   -moz-column-gap: 2rem;
-       column-gap: 2rem;
+  column-gap: 2rem;
   align-items: center;
 }
 .navigation__right {
   display: flex;
   -moz-column-gap: 2rem;
-       column-gap: 2rem;
+  column-gap: 2rem;
   align-items: center;
 }
 .navigation__text {
@@ -293,7 +293,7 @@ body {
   grid-template-columns: repeat(4, minmax(254px, 1fr));
   row-gap: 48px;
   -moz-column-gap: 48px;
-       column-gap: 48px;
+  column-gap: 48px;
 }
 
 .f_title {
@@ -320,7 +320,7 @@ body {
   grid-template-columns: repeat(5, minmax(32px, 1fr));
   grid-auto-rows: 1fr;
   -moz-column-gap: 12px;
-       column-gap: 12px;
+  column-gap: 12px;
   row-gap: 12px;
   max-width: 208px;
 }
@@ -339,3 +339,5 @@ body {
   max-width: 1160px;
   padding-block: 80px;
 }
+
+/* sadjfiaj */
